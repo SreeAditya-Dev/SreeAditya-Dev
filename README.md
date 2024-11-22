@@ -6,6 +6,7 @@
 - **Web Development Projects**
 - **Open Source** contributions
 - Anything fun in the tech world!
+- 📫 Reach me out @harrychan4942
 
 🤝 **Need Help With:**
 - **Advanced Web Development Methods**
