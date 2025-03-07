@@ -6,8 +6,11 @@
 
 # 🌟 About Me:
 
-🎓 I’m currently a student at **Shiv Nadar University,Chennai**  
-🚀 Passionate about **Web Development** and crafting innovative solutions!
+🎓 **Student at Shiv Nadar University, Chennai**  
+🚀 Passionate about **Web Development, AI, and IoT**  
+💡 I love **building innovative projects** and solving real-world problems!  
+💻 Skilled in **Full Stack Development, AI, and Blockchain**  
+🎯 Always exploring new **tech stacks & open-source contributions**
 
 👯 **Looking to Collaborate on:**
 - **Web Development Projects**
@@ -47,14 +50,33 @@
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/v-sree-aditya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/adityavelmurugan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CreativeScript7421) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Developer_Sree) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v-sree-aditya) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/adityavelmurugan) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@CreativeScript7421) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Developer_Sree) 
 
 <br>
 
-<h2 align="center">💻 Tech Stack </h2>
+<h2 align="center">💻 Tech Stack</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,powershell,python,javascript,dart,html,css,tailwind,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,angular,figma,pytorch,tensorflow,git,django,flask,flutter,github" /><br>
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,dart,powershell" style="margin: 10px;" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,angular,nextjs,flutter" style="margin: 10px;" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask" style="margin: 10px;" />
+  
+  <h3>Database & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma,azure,vercel" style="margin: 10px;" />
+  
+  <h3>Machine Learning</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" style="margin: 10px;" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,githubactions" style="margin: 10px;" />
 </div>
 
 # 📊 GitHub Stats:
