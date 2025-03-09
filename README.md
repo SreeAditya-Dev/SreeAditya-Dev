@@ -106,6 +106,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SreeAditya-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📊 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&bg_color=f0d6f5&color=000000&line=ff0059&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SreeAditya-Dev&icon=2&color=5)](https://visitcount.itsvg.in)
 
