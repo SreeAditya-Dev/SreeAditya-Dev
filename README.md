@@ -85,6 +85,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SreeAditya-Dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeAditya-Dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📈GFG:
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/sreeadhj8ks?theme=dark)
+
 # 📈LeetCode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SREE_2006?theme=radical&font=Share%20Tech&ext=activity)
 
