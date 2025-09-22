@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SreeAditya-Dev" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Viga&size=40&center=true&vCenter=true&pause=1000&color=F7F400&width=500&height=80&lines=Hi+Everyone+!%F0%9F%91%8B;I'm+Sree+Aditya+Velmurugan" />
-</h1>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aditya%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 # 🌟 About Me:
 
