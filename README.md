@@ -4,7 +4,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aditya%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-# 🌟 About Me:
+# 💫 About Me:
 
 🎓 **Student at Shiv Nadar University, Chennai**  
 🚀 Passionate about **Web Development, AI, and IoT**  
