@@ -90,13 +90,13 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://res.cloudinary.com/dukjtmdtn/image/upload/v1760707650/github-user-contribution_icagtm.svg" />
   
   <br/><br/><br/>
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SreeAditya-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SreeAditya-Dev&theme=juicyfresh&margin-w=4)
 
 ### ✍️ Random Dev Quote
 [![Quote](https://quotes-github-readme.vercel.app/api?quote=A%20smooth%20sea%20never%20made%20a%20skilled%20sailor.&type=horizontal&theme=tokyonight)](https://quotes-github-readme.vercel.app)
@@ -106,7 +106,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SreeAditya-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📊 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&bg_color=f0d6f5&color=000000&line=ff0059&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&bg_color=0a0e12&color=5d417a&line=5d417a&point=fab795&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SreeAditya-Dev&icon=2&color=5)](https://visitcount.itsvg.in)
