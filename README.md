@@ -13,21 +13,7 @@
 <h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | IoT Innovator</h3>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-### 🎯 Quick Overview
-
-```javascript
-const aditya = {
-    education: "🎓 Shiv Nadar University, Chennai",
-    passions: ["Web Development", "AI", "IoT"],
-    currentlyLearning: ["Full Stack Web Development", "Flutter", "Web 4.0"],
-    funFact: "I can solve a Rubik's Cube while coding! 🎲"
-};
-```
-
-### 💫 About Me
+## 💫 About Me
 
 🎓 **Student at Shiv Nadar University, Chennai**  
 🚀 Passionate about **Web Development, AI, and IoT**  
@@ -37,7 +23,7 @@ const aditya = {
 
 ---
 
-### 👯 Looking to Collaborate On
+## 👯 Looking to Collaborate On
 - 🌐 **Web Development Projects**  
 - 💻 **Open Source Contributions**  
 - ⚡ Anything fun and creative in the tech world!  
@@ -45,27 +31,27 @@ const aditya = {
 
 ---
 
-### 🤝 Need Help With
+## 🤝 Need Help With
 - 🧠 **Advanced Web Development Methods**  
 - 🌍 Exploring new boundaries in **Web 4.0 technologies**
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - 🧩 Full Stack Web Development  
 - 📱 Flutter App Development  
 - 🎨 Blending **creativity** and **technology** for impactful results
 
 ---
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 - 💡 **C Programming, Python**  
 - 🎥 **Motivational Content Creation**  
 - 🧠 Latest **Tech Innovations**
 
 ---
 
-### ⚡ Fun Facts
+## ⚡ Fun Facts
 - 🧩 Can solve a **Rubik’s Cube** while brainstorming my next project  
 - 🧮 Love solving **Sudoku** puzzles in my free time
 
