@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SreeAditya-Dev" />
 </br>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Aditya%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![Header](./banner.png)
 
 # 💫 About Me:
 
