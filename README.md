@@ -81,9 +81,25 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SreeAditya-Dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SreeAditya-Dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeAditya-Dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sreeaditya-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeaditya-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages - sreeaditya-dev" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=sreeaditya-dev&theme=gruvbox&show_icons=true" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeaditya-dev&theme=gruvbox&show_icons=true" alt="GitHub Stats - sreeaditya-dev" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sreeaditya-dev&theme=gruvbox" target="_blank">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeaditya-dev&theme=gruvbox" alt="GitHub Streak - sreeaditya-dev" />
+  </a>
+</p>
+
+
 
 
 
@@ -99,14 +115,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=SreeAditya-Dev&theme=juicyfresh&margin-w=4)
 
 ### ✍️ Random Dev Quote
-[![Quote](https://quotes-github-readme.vercel.app/api?quote=A%20smooth%20sea%20never%20made%20a%20skilled%20sailor.&type=horizontal&theme=tokyonight)](https://quotes-github-readme.vercel.app)
+[![Quote](https://quotes-github-readme.vercel.app/api?quote=A%20river%20cuts%20through%20rock%20not%20because%20of%20its%20power,%20but%20because%20of%20its%20persistence.&type=horizontal&theme=gruvbox)](https://quotes-github-readme.vercel.app)
+
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SreeAditya-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SreeAditya-Dev&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 📊 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&bg_color=0a0e12&color=5d417a&line=5d417a&point=fab795&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SreeAditya-Dev&icon=2&color=5)](https://visitcount.itsvg.in)
