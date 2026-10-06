@@ -136,8 +136,9 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreeAditya-Dev&theme=juicyfresh&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=sreeaditya-dev&theme=juicyfresh&margin-w=4" alt="Sree Aditya GitHub Trophies" />
 </div>
 
 ---
@@ -147,19 +148,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?quote=A%20river%20cuts%20through%20rock%20not%20because%20of%20its%20power,%20but%20because%20of%20its%20persistence.&type=horizontal&theme=gruvbox" />
 </div>
 
----
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SreeAditya-Dev&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreeAditya-Dev&theme=gruvbox" alt="Aditya's GitHub Activity Graph" />
-</div>
 
 ---
 
